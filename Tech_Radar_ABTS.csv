@@ -1,46 +1,46 @@
-﻿Adoption Status,Area,Title,,,
-Assess,OS - Technology,Open Source,,,
-Core,OS - Technology,OS - Windows,,,
-Assess,OS - Technology,OS - Linux,,,
-Assess,OS - Technology,OS - Mac,,,
-Assess,OS - Technology,OS - Unix,,,
-Core,OS - Technology,Client-Server,,,
-Core,OS - Technology,DMZ Installation,,,
-Core,Integration,ALM MicroFocus,,"DMZ- Cloud,",
-Core,Integration,ALM RQM,,Client Server architecture,
-Assess,Integration,ALM Rally,,,
-Adopt,Integration,ALM Jira - Xray,,,
-Hold,Integration,ALM Jira - Zephyr ,,Hold,Future
-Assess,Integration,qTest,,Assess,Long Future
-Core,Integration,Ginger,,Core,Already have 
-Core,Integration,Tableu,,Adopt,in Progress
-Core,Integration,Mobile Reports,,,
-Core,Integration,BEAT on Cloud,,,
-Hold,Integration,AgileCraft,,,
-Assess,Integration,Import designs from UML diagrams,,,
-Core,Design Console Capabilities,Pairwise,,,
-Core,Design Console Capabilities,Export Test Design in ALM,,,
-Core,Design Console Capabilities,Export Design/ Scenarios to Excel,,,
-Core,Design Console Capabilities,Execution Progress from ALM,,,
-Core,Design Console Capabilities,Automation percentage from Ginger,,,
-Core,Design Console Capabilities,Customizable Activity Library,,,
-Core,Design Console Capabilities,Import from Solution book,,,
-Assess,Design Console Capabilities,Scenario generation with AI,,,
-Core,Report Center Capabilities,Daily Execution,,,
-Core,Report Center Capabilities,Defect History,,,
-Core,Report Center Capabilities,Defects Dashboard ,,,
-Core,Report Center Capabilities,Execution Progress,,,
-Core,Report Center Capabilities,Planned Vs Actual execution report,,,
-Core,Report Center Capabilities,Req Coverage,,,
-Core,Report Center Capabilities,Defects Graph,,,
-Core,Report Center Capabilities,Defects Trends,,,
-Assess,Report Center Capabilities,Velocity and Capacity reports,,Capabilities,
-Assess,Report Center Capabilities,Development progress,,Pairwise,
-Core,Report Center Capabilities,Requirement Traceability report,,Execution Status,
-Assess,Report Center Capabilities,qTest,,Integration with Ginger,
-Core,Report Center Capabilities,Escaping Defects list,,,
-Core,Report Center Capabilities,Reopened Defects,,Tableu Integration,
-Core,Report Center Capabilities,Defects SLA,,Mobile Reports,
-Core,Report Center Capabilities,Runbook report,,,
-Core,Report Center Capabilities,B-PRO web report,,,
-Core,Report Center Capabilities,Scheduled reports,,,
+Name,ring,Quadrant,isNew
+Open Source,Assess,OS - Technology,FALSE
+OS - Windows,Core,OS - Technology,FALSE
+OS - Linux,Assess,OS - Technology,FALSE
+OS - Mac,Assess,OS - Technology,FALSE
+OS - Unix,Assess,OS - Technology,FALSE
+Client-Server,Core,OS - Technology,FALSE
+DMZ Installation,Core,OS - Technology,FALSE
+ALM MicroFocus,Core,Integration,FALSE
+ALM RQM,Core,Integration,FALSE
+ALM Rally,Assess,Integration,FALSE
+ALM Jira - Xray,Adopt,Integration,FALSE
+ALM Jira - Zephyr ,Hold,Integration,FALSE
+qTest,Assess,Integration,FALSE
+Ginger,Core,Integration,FALSE
+Tableu,Core,Integration,FALSE
+Mobile Reports,Core,Integration,FALSE
+BEAT on Cloud,Core,Integration,FALSE
+AgileCraft,Hold,Integration,FALSE
+Import designs from UML diagrams,Assess,Integration,FALSE
+Pairwise,Core,Design Console Capabilities,FALSE
+Export Test Design in ALM,Core,Design Console Capabilities,FALSE
+Export Design/ Scenarios to Excel,Core,Design Console Capabilities,FALSE
+Execution Progress from ALM,Core,Design Console Capabilities,FALSE
+Automation percentage from Ginger,Core,Design Console Capabilities,FALSE
+Customizable Activity Library,Core,Design Console Capabilities,FALSE
+Import from Solution book,Core,Design Console Capabilities,FALSE
+Scenario generation with AI,Assess,Design Console Capabilities,FALSE
+Daily Execution,Core,Report Center Capabilities,FALSE
+Defect History,Core,Report Center Capabilities,FALSE
+Defects Dashboard ,Core,Report Center Capabilities,FALSE
+Execution Progress,Core,Report Center Capabilities,FALSE
+Planned Vs Actual execution report,Core,Report Center Capabilities,FALSE
+Req Coverage,Core,Report Center Capabilities,FALSE
+Defects Graph,Core,Report Center Capabilities,FALSE
+Defects Trends,Core,Report Center Capabilities,FALSE
+Velocity and Capacity reports,Assess,Report Center Capabilities,FALSE
+Development progress,Assess,Report Center Capabilities,FALSE
+Requirement Traceability report,Core,Report Center Capabilities,FALSE
+qTest,Assess,Report Center Capabilities,FALSE
+Escaping Defects list,Core,Report Center Capabilities,FALSE
+Reopened Defects,Core,Report Center Capabilities,FALSE
+Defects SLA,Core,Report Center Capabilities,FALSE
+Runbook report,Core,Report Center Capabilities,FALSE
+B-PRO web report,Core,Report Center Capabilities,FALSE
+Scheduled reports,Core,Report Center Capabilities,FALSE
